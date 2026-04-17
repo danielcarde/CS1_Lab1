@@ -1,4 +1,4 @@
-# LabOne: A Simple Programming Exercise
+# Lab 1: A Simple Programming Exercise
 
 This project provides a foundational Java programming exercise with tasks focusing on variable usage, data types, and logical expressions. This was my intro to coding in my first semester of college.
 
